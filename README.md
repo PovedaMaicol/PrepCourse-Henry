@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del Mod2 Soy Henry
+Este es un proyecto de como crear un repositorio y clonarlo desde Github
